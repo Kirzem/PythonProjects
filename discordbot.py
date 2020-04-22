@@ -4,7 +4,7 @@ import random
 from discord.ext import commands
 
 
-TOKEN = 'Njk5NTA1NDg2Njg0MjI1NTg2.XpXvdg.6HaZTXlaJ_LguIl7i7whzKZjY-0'
+TOKEN = ''
 GUILD = 'MetroPlex'
 
 bot = commands.Bot(command_prefix='!')
