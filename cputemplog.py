@@ -33,3 +33,4 @@ while True:
     graph(temp)
     plt.pause(1)
     sleep(30)
+
