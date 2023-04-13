@@ -11,7 +11,7 @@ username = input()
 
 f"Hello, {username}!"
 
-#print('Enter your password: ')
+print('Enter your password: ')
 #password = getpass()
 
 #if len(password) <= 4:
