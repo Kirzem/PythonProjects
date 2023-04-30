@@ -19,7 +19,7 @@ print('Enter your password: ')
     
     
     
-#login_info = username + ':' + password    # make info neat to put into a file
+#login_info = username + ':' + password    # todo make info neat to put into a file
 #print (login_info)
 
 
